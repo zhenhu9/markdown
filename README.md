@@ -42,6 +42,7 @@ Markdown 是一种轻量级标记语言，创于2004年，关键人物：[John G
 9.  [图片 (Images)](#19-图片-images)
     - 行内样式图片 (Inline-style Images)
     - 引用样式图片 (Reference-style Images)
+    - 图片链接 (Linking Images)
 10. [代码 (Codes)](#110-代码-codes)
     - 行内代码 (Inline-style Codes)
     - 代码块 (Code Blocks)
@@ -425,7 +426,7 @@ b. **引用样式图片** (Reference-style Images)
 
     [被引用目标] </图片地址>/ "/'/(图片title)/'/"
 
-**注**： *引用样式图片与引用样式链接类似，就多一个符号 ‘!’。*
+**注**： *引用样式图片与引用样式链接类似，引用块前有个符号 ‘!’，被引用块多了个符号‘"’。*
 
 示例：
 
@@ -435,13 +436,25 @@ b. **引用样式图片** (Reference-style Images)
 
     ![beautiful sky][beau-sky]
 
-    [beau-sky]：./images/manalone.jpg (璀璨星空")
+    [beau-sky]：./images/manalone.jpg "璀璨星空"
 
 渲染效果如下：(三种方式的效果相同)
 
 ![beautiful][beau-skyone]
 
 [beau-skyone]: ./images/manalone.jpg "璀璨星空"
+
+c. **图片链接** (Linking Images)
+
+    [![图片alt](图片地址 "图片title")](图片链接地址 "链接title")
+
+**注:** *链接语法嵌套图片语法。*
+
+    [![勇敢者的游戏](images/freesolo.jpg "勇敢者的游戏")](https://www.nationalgeographic.com/films/free-solo/)
+
+渲染效果如下:
+
+[![勇敢者的游戏](images/freesolo.jpg "勇敢者的游戏")](https://www.nationalgeographic.com/films/free-solo/)
 
 [回到目录](#目录-table-of-contents)
 
