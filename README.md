@@ -6,7 +6,7 @@
 
 Markdown 是一种轻量级标记语言，创于2004年，关键人物：[John Gruber] 与 [Aaron Swartz]。它的设计旨在可以使人们以易读、易写的纯文本格式写作，并且可以很容易的转换为 PDF、HTML、DOC 或 XHTML 等其他文件格式。Markdown 常应用于格式化自述文件和在线论坛写消息。
 
-由于其简单易用的特性，使其成为世界上最流行的轻量级标记语言之一，并在各类平台上获得了广泛支持，如 GitHub，Bitbucket 等。基础语法支持很好，但各平台的衍生版本语法不尽相同，对 Markdown 扩展及其它语法支持和渲染效果有差异化。
+由于其简单易用的特性，使其成为世界上最流行的轻量级标记语言之一，并在各类平台上获得了广泛支持，如 GitHub，Bitbucket 等。各平台的衍生版本语法不尽相同，但对基础语法支持很好，而对 Markdown 扩展及其它语法支持和渲染效果有差异化。
 
 [John Gruber]: https://en.wikipedia.org/wiki/John_Gruber
 
