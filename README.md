@@ -633,7 +633,7 @@ Markdown 综合属性
 
 <a href="#soeasyid">一点就到样例标题了</a>
 
-**注**： *示例生成的两行html代码分别为：`<h4 id="soeasyid">样例标题</h4>`，`<a href="#soeasyid">一点就到样例标题了</a>`。
+**注**： *示例生成的两行 html 代码分别为：`<h4 id="soeasyid">样例标题</h4>`，`<a href="#soeasyid">一点就到样例标题了</a>`。
 
 [回到目录](#目录-table-of-contents)
 
