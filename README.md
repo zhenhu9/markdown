@@ -14,6 +14,19 @@ Markdown 是一种轻量级标记语言，创于2004年，关键人物：[John G
 
 ---
 
+## 打赏或赞助 (Donation)
+
+以上内容都是本小虾收集与整理的，如果您觉得有帮助，欢迎您对我说：“来，喝瓶水！”。
+
+[来，喝瓶水！](https://www.paypal.me/haojiangzhu/5 '来，喝瓶水!')
+
+---
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a> [![HitCount](http://hits.dwyl.io/zhenhu9/markdown.svg)](http://hits.dwyl.io/zhenhu9/markdown)
+
+---
+
 ## 目录 (Table of Contents)
 
 #### [基础语法 (Basic Syntax)](#anchor-bsyn)
@@ -57,8 +70,6 @@ Markdown 是一种轻量级标记语言，创于2004年，关键人物：[John G
 5. [任务列表 (Task Lists)](#25-任务列表-task-lists)
 
 #### [参考 (References)](#ref)
-
-#### [打赏或赞助 (Donation)](#dona)
 
 ---
 
@@ -744,23 +755,6 @@ say_hello
 [Markdown Guide](https://www.markdownguide.org) Matt Cone
 
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Adam Pritchard
-
----
-
-<div id="dona" />
-
-## 打赏或赞助 (Donation)
-
-以上内容都是本小虾收集与整理的，如果您觉得有帮助，欢迎您对我说：“来，喝瓶水！”。
-
-[来，喝瓶水！](https://www.paypal.me/haojiangzhu/5 '来，喝瓶水!')
-
----
-
-Anti 996 License Version 1.0
-
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a> [![HitCount](http://hits.dwyl.io/zhenhu9/markdown.svg)](http://hits.dwyl.io/zhenhu9/markdown)
 
 ---
 
