@@ -461,9 +461,7 @@ b. **引用样式图片** (Reference-style Images)
 
 渲染效果如下：(三种方式的效果相同)
 
-[beautiful][myheart]
-
-[myheart](./9580.png "Only my heart!")
+![myheart](./9580.png "Only my heart!")
 
 c. **图片链接** (Linking Images)
 
