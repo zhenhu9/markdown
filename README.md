@@ -453,19 +453,17 @@ b. **引用样式图片** (Reference-style Images)
 
 示例：
 
-    ![beautiful sky](http://www.ottawafamilyliving.com/writeable/editor_uploads/images/images/manalone.jpg "璀璨星空")
+    ![beautiful sky](./9580.png "Only my heart!")
 
-    ![beautiful sky](./images/manalone.jpg "璀璨星空")
+    ![beautiful sky][myheart]
 
-    ![beautiful sky][beau-sky]
-
-    [beau-sky]：./images/manalone.jpg "璀璨星空"
+    [myheart]：./9580.png "Only my heart!"
 
 渲染效果如下：(三种方式的效果相同)
 
-![beautiful][beau-skyone]
+[beautiful][myheart]
 
-[beau-skyone](./9580.png "Only my heart!")
+[myheart](./9580.png "Only my heart!")
 
 c. **图片链接** (Linking Images)
 
