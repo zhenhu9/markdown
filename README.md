@@ -469,7 +469,7 @@ c. **图片链接** (Linking Images)
 
 **注:** *链接语法嵌套图片语法。*
 
-    [![Only my heart](./9580.png "Only my heart!")](https://github.com/zhenhu9/)
+    [![Only my heart](./9580.png "Only my heart!")](https://github.com/zhenhu9/markdown/blob/master/9580.png)
 
 渲染效果如下:
 
