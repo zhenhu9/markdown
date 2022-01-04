@@ -465,7 +465,7 @@ b. **引用样式图片** (Reference-style Images)
 
 ![beautiful][beau-skyone]
 
-[beau-skyone]: ./images/manalone.jpg "璀璨星空"
+[beau-skyone](./9580.png "Only my heart!")
 
 c. **图片链接** (Linking Images)
 
@@ -473,7 +473,7 @@ c. **图片链接** (Linking Images)
 
 **注:** *链接语法嵌套图片语法。*
 
-    [![勇敢者的游戏](images/freesolo.jpg "勇敢者的游戏")](https://www.nationalgeographic.com/films/free-solo/)
+    [![Only my heart](./9580.png "Only my heart!")](https://github.com/zhenhu9/)
 
 渲染效果如下:
 
