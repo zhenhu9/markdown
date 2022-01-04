@@ -473,7 +473,7 @@ c. **图片链接** (Linking Images)
 
 渲染效果如下:
 
-[![勇敢者的游戏](images/freesolo.jpg "勇敢者的游戏")](https://www.nationalgeographic.com/films/free-solo/)
+[![Only my heart](./9580.png "Only my heart!")](https://github.com/zhenhu9/markdown/blob/master/9580.png)
 
 [回到目录](#目录-table-of-contents)
 
